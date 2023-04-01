@@ -1,0 +1,43 @@
+{
+  "Ads": {
+    "TypeAd": "yodo",
+    "keyIS": "18e4b20fd",
+    "KeyYodo": "V0zAUIc3S6"
+  },
+  "Config": {
+    "app_version": "1.0",
+    "package_name": "com.devat.guide"
+  },
+  "GuideContent": [
+    {
+      "title": "Article 1",
+      "image": "https://i.ytimg.com/vi/FAyooxqNB3I/maxresdefault.jpg",
+      "description": "All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood."
+    },
+    {
+      "title": "Article 2",
+      "image": "https://i.ytimg.com/vi/FIDFP6bpS5k/maxresdefault.jpg",
+      "description": "Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status."
+    },
+    {
+      "title": "Article 3",
+      "image": "https://www.somagnews.com/wp-content/uploads/2021/09/Squid-e1632775279207.jpg",
+      "description": "All are equal before the law and are entitled without any discrimination to equal protection of the law. All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination."
+    },
+    {
+      "title": "Article 4",
+      "image": "https://i.ytimg.com/vi/FAyooxqNB3I/maxresdefault.jpg",
+      "description": "All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood."
+    },
+    {
+      "title": "Article 5",
+      "image": "https://i.ytimg.com/vi/FIDFP6bpS5k/maxresdefault.jpg",
+      "description": "Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status."
+    },
+    {
+      "title": "Article 6",
+      "image": "https://www.somagnews.com/wp-content/uploads/2021/09/Squid-e1632775279207.jpg",
+      "description": "All are equal before the law and are entitled without any discrimination to equal protection of the law. All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination."
+    }
+  ]
+}
